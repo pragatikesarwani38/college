@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549522133878",
+    "firebase_url": "https://college-bbe7b.firebaseio.com",
+    "project_id": "college-bbe7b",
+    "storage_bucket": "college-bbe7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549522133878:android:bb048a06c9d2b3876c2057",
+        "android_client_info": {
+          "package_name": "ui.ggpm.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549522133878-b87lsg6h04igjpsu5ke85jt39deoglaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ui.ggpm.college",
+            "certificate_hash": "e93a8a98c44f410772de843226e06666b15fb4c8"
+          }
+        },
+        {
+          "client_id": "549522133878-v5e0upns49fhdooh8jun75oc3vee0rg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYx7rmfO4jPnWymc7TEYSTVMwOFLkqqvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549522133878-v5e0upns49fhdooh8jun75oc3vee0rg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
